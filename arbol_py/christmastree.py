@@ -1,7 +1,7 @@
 import turtle
 
 screen = turtle.Screen()
-screen.setup(800,600)
+screen.setup(400,100
 
 circle = turtle.Turtle()
 circle.shape('circle')
